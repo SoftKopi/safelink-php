@@ -14,7 +14,7 @@ require('config.php');
     <title><?php echo $title; ?></title>
 
     <!-- Bootstrap core CSS -->
-    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/ccs/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
     <link href="assets/navbar.css" rel="stylesheet">
